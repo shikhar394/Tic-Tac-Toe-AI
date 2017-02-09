@@ -409,8 +409,8 @@ def play(Tree):
 
     
 if __name__ == "__main__":
-    a = LinkedTree()
+    MyTree = LinkedTree()
     print("Please wait for the program to load")
-    makeTablePossibilities(a)
-    minimax(a, a.root())
-    play(a)               
+    makeTablePossibilities(MyTree)
+    minimax(MyTree, MyTree.root())
+    play(MyTree)               
