@@ -2,8 +2,7 @@
 """
 Created on Thu Nov  3 23:01:33 2016
 
-@author: Shikhar Sakhuja
-Homework 6 
+@author: Shikhar Sakhuja 
 
 
 Please run the program and just input board positions from 1-9. 
